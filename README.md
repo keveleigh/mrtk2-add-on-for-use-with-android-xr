@@ -4,8 +4,8 @@ This project adds input and interaction providers to MRTK2 to support additional
 
 Specifically, this package adds support for the following OpenXR extensions:
 
-* XR_ANDROID_hand_mesh
 * [XR_EXT_hand_interaction](https://registry.khronos.org/OpenXR/specs/1.1/html/xrspec.html#XR_EXT_hand_interaction)
+* [XR_ANDROID_hand_mesh](https://developer.android.com/develop/xr/openxr/extensions/XR_ANDROID_hand_mesh)
 
 as well as migrating to use [Unity's XR Hands package](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.6/manual/index.html) for hand joints.
 
@@ -27,13 +27,13 @@ See the [package README](./com.qualcomm.mixedreality.toolkit.addon/Documentation
 
 ## Development
 
-See the [CONTRIBUTING.md file](CONTRIBUTING.md) for contribution guidelines.
+See the [CONTRIBUTING page](CONTRIBUTING.md) for contribution guidelines.
 
 ## Getting in Contact
 
-* [Report an Issue on GitHub](../../issues)
-* [Open a Discussion on GitHub](../../discussions)
+* [Report an Issue on GitHub](https://github.com/qualcomm/mrtk2-add-on-for-use-with-android-xr/issues)
+* [Open a Discussion on GitHub](https://github.com/qualcomm/mrtk2-add-on-for-use-with-android-xr/discussions)
 
 ## License
 
-MRTK2 Add-on for use with Android XR is licensed under the [MIT License](https://spdx.org/licenses/MIT.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
+MRTK2 Add-on for use with Android XR is licensed under the [MIT License](https://spdx.org/licenses/MIT.html). See [LICENSE](LICENSE.md) for the full license text.
